@@ -6,7 +6,7 @@ Prerequisites
 Python 3.10
 Conda
 
-##Setup##
+#Setup
 
 Clone this repository:
 Copygit clone https://github.com/your-username/table-understanding-pipeline.git
