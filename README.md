@@ -64,10 +64,10 @@ Check the console output or redirect it to a file for a detailed accuracy report
 
 If you encounter any issues:
 
--- Ensure all prerequisites are correctly installed.
--- Check that the data.json file is correctly formatted and contains the necessary information.
--- Verify that you have internet access for downloading additional required files.
--- Check the console output for any error messages or exceptions.
--- If you see the error "CondaError: Run 'conda init' before 'conda activate'", make sure you've followed steps 2 and 3 in the Setup section above.
+- Ensure all prerequisites are correctly installed.
+- Check that the data.json file is correctly formatted and contains the necessary information.
+- Verify that you have internet access for downloading additional required files.
+- Check the console output for any error messages or exceptions.
+- If you see the error "CondaError: Run 'conda init' before 'conda activate'", make sure you've followed steps 2 and 3 in the Setup section above.
 
 For further assistance, please open an issue in the GitHub repository.
