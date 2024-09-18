@@ -6,7 +6,7 @@ Prerequisites
 Python 3.10
 Conda
 
-Setup
+##Setup##
 
 Clone this repository:
 Copygit clone https://github.com/your-username/table-understanding-pipeline.git
@@ -17,7 +17,7 @@ Copyconda init <your-shell-name>
 Replace <your-shell-name> with bash, zsh, fish, or whatever shell you're using.
 Close and reopen your terminal, or run the following command to reload your shell configuration:
 Copysource ~/.bashrc  # for bash
-# or
+           or
 source ~/.zshrc   # for zsh
 
 Create and activate the Conda environment:
